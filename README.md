@@ -18,3 +18,13 @@ it will explain the flow or steps of the app
 
 7
 
+8
+
+9
+
+10
+
+11
+
+
+
